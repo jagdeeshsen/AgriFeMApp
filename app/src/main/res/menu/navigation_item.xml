@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/login"
+        android:title="login"
+        android:icon="@drawable/login_24"/>
+
+    <item
+        android:id="@+id/wallet"
+        android:title="wallet"
+        android:icon="@drawable/wallet_24"/>
+
+    <item
+        android:id="@+id/Customer"
+        android:title="customer support"
+        android:icon="@drawable/headset_mic_24"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/settings_24"/>
+
+    <item
+        android:id="@+id/about_us"
+        android:title="About Us"/>
+
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="Privacy Policy" />
+
+    <item
+        android:id="@+id/return_policy"
+        android:title="Return Policy" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/logout_24"/>
+</menu>

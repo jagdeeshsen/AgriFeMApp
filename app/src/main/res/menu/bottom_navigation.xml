@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/home_24"/>
+
+    <item
+        android:id="@+id/category"
+        android:title="category"
+        android:icon="@drawable/category_24"/>
+
+    <item
+        android:id="@+id/my_order"
+        android:title="My Order"
+        android:icon="@drawable/baseline_local_mall_24"/>
+
+    <item
+        android:id="@+id/cart"
+        android:title="cart"
+        android:icon="@drawable/shopping_cart_24"/>
+
+    <item
+        android:id="@+id/account"
+        android:title="account"
+        android:icon="@drawable/account_circle_24"/>
+
+</menu>
